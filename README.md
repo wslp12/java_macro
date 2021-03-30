@@ -1,6 +1,5 @@
 ## 실행 패널 
 ![exe](./images/exe.PNG)  
- Vector<ListStr> 에 담긴 액션을 나타낸다.  
   
 ## 상태 패널 
 ![status](./images/status.PNG)  
